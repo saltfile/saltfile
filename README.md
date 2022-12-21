@@ -2,3 +2,4 @@
 - 🌱 I'm believe that writing projects can help me improve
 - 👯 try to be best
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltfile)](https://github.com/anuraghazra/github-readme-stats)
