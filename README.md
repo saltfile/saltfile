@@ -3,4 +3,6 @@
 - 👯 try to be best
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltfile&show_icons=true&theme=tokyonight)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltfile&layout=compact&theme=tokyonight">
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltfile&show_icons=true&theme=tokyonight)
+-
+- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltfile&layout=compact&theme=tokyonight">
